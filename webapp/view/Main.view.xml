@@ -1,0 +1,4 @@
+<mvc:View controllerName="com.sap.training.ux402.masterdetail.UX402_MasterDetailExercise.controller.Main" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<SplitApp id="idApp"/>
+</mvc:View>
